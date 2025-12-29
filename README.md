@@ -7,6 +7,7 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 ## 🙋‍♂️ About Me
+<p>
 <img align="right" src="MyLCGoldBedge.gif" width="350" height="240" alt="badges"/>
 - 🔭 I’m currently studying in my **final year**
 - 📘 Currently learning **Full‑Stack Development**
@@ -14,7 +15,7 @@
 - ⚡ For fun I play games and enjoy exploring new software tools
 - 📫 Reach me at: <amantusingh4429@gmail.com>
 <a href="https://www.linkedin.com/in/mantu-kumar-singh-8874a4387">- 🔗 Connect Me on</a> 
-
+</p>
 ## ❤️ DSA Zone
 I enjoy solving problems across multiple platforms and practising data structures & algorithms regularly.
 
