@@ -13,7 +13,7 @@
 - 👯 I’m open to collaborating on **open source projects**
 - ⚡ For fun I play games and enjoy exploring new software tools
 - 📫 Reach me at: <amantusingh4429@gmail.com>
-- 🔗 Connect on [LinkedIn](linkedin.com/in/mantu-kumar-singh-8874a4387)
+- 🔗 Connect Me on [**Linkedin**](https://www.linkedin.com/in/mantu-kumar-singh-8874a4387)
 
 ## ❤️ DSA Zone
 I enjoy solving problems across multiple platforms and practising data structures & algorithms regularly.
@@ -32,7 +32,7 @@ Platforms (examples):
 
 ## 🚀 Languages & Tools
 <p align="left">
-  <img src="https://img.icons8.com/color/100/000000/c-plus-plus-logo.png" alt="C++" width="36"/>
+  <img src="https://icons8.com/icon/40669/c%2B%2B" alt="C++" width="36"/>
   <img src="https://img.icons8.com/color/96/000000/html-5--v1.png" alt="HTML" width="36"/>
   <img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS" width="36"/>
   <img src="https://img.icons8.com/arcade/100/000000/js.png" alt="JavaScript" width="36"/>
