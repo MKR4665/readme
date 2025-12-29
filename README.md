@@ -12,8 +12,8 @@
 - 📘 Currently learning **Full‑Stack Development**
 - 👯 I’m open to collaborating on **open source projects**
 - ⚡ For fun I play games and enjoy exploring new software tools
-- 📫 Reach me at: <mantusingh5138@gmail.com>
-- 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/mantu-singh-69969b20b)
+- 📫 Reach me at: <amantusingh4429@gmail.com>
+- 🔗 Connect on [LinkedIn](linkedin.com/in/mantu-kumar-singh-8874a4387)
 
 ## ❤️ DSA Zone
 I enjoy solving problems across multiple platforms and practising data structures & algorithms regularly.
@@ -55,8 +55,8 @@ Platforms (examples):
 
 ## 📧 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/mantu-singh-69969b20b" target="_blank"><img src="https://img.icons8.com/color/60/null/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://github.com/MantuKumar15" target="_blank"><img src="https://img.icons8.com/color/60/null/github--v1.png" alt="GitHub"/></a>
+  <a href="linkedin.com/in/mantu-kumar-singh-8874a4387" target="_blank"><img src="https://img.icons8.com/color/60/null/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://github.com/MKR4665" target="_blank"><img src="https://img.icons8.com/color/60/null/github--v1.png" alt="GitHub"/></a>
   <a href="https://instagram.com/mantusingh5138" target="_blank"><img src="https://img.icons8.com/color/60/null/instagram-new--v1.png" alt="Instagram"/></a>
   <a href="https://www.facebook.com/profile.php?id=100037453986869" target="_blank"><img src="https://img.icons8.com/color/60/null/facebook-new.png" alt="Facebook"/></a>
   <a href="https://twitter.com/MantuSingh5832" target="_blank"><img src="https://img.icons8.com/color/60/null/twitter--v4.png" alt="Twitter"/></a>
