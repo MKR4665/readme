@@ -13,7 +13,7 @@
 - 👯 I’m open to collaborating on **open source projects**
 - ⚡ For fun I play games and enjoy exploring new software tools
 - 📫 Reach me at: <amantusingh4429@gmail.com>
-- 🔗 Connect Me on [**Linkedin**](https://www.linkedin.com/in/mantu-kumar-singh-8874a4387)
+<a href="[**Linkedin**](https://www.linkedin.com/in/mantu-kumar-singh-8874a4387)">- 🔗 Connect Me on</a> 
 
 ## ❤️ DSA Zone
 I enjoy solving problems across multiple platforms and practising data structures & algorithms regularly.
